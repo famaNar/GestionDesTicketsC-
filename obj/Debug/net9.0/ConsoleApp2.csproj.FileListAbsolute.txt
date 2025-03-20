@@ -1,0 +1,15 @@
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.deps.json
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.runtimeconfig.json
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.dll
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.pdb
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfo.cs
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.sourcelink.json
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.dll
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/refint/ConsoleApp2.dll
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.pdb
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.genruntimeconfig.cache
+/Users/mfamar/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ref/ConsoleApp2.dll
